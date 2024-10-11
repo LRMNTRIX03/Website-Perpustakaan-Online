@@ -1,0 +1,22 @@
+
+.nav-item:hover {
+    background-color: wheat;
+    transition: 0.3s;
+  }
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #1591ea;
+  }
+  .custom-icon-size {
+    font-size: 3rem; 
+    color: black; 
+  }
+  
+  .book-icon{
+    font-size: 2rem;
+    margin-right: 15px;
+  }

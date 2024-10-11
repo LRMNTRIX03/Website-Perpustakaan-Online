@@ -1,0 +1,6 @@
+Tata Cara.
+1. Siapkan Database dengan nama "perpustakaan"
+2. Jalankan perintah migrate dengan "php artisan migrate:fresh"
+3. Atur env sesuai dengan port dan jenis database yang digunakan
+4. Atur akun untuk melakukan reset password di config/mail.php
+5. Enjoy
